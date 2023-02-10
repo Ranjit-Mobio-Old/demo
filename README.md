@@ -10,3 +10,6 @@ Watch tutorial on youtube.
 
 1. Open index.html in broswer
 2. welcome
+
+3. Hello
+4. How are you
